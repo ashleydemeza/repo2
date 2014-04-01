@@ -1,0 +1,678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Campaignify 1.0\n"
+"POT-Creation-Date: 2013-08-27 13:08-0500\n"
+"PO-Revision-Date: 2013-08-27 13:09-0500\n"
+"Last-Translator: Spencer Finnell <spencerfinnell@gmail.com>\n"
+"Language-Team: Astoundify <contact@astoundify.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12
+msgid "Not Found"
+msgstr ""
+
+#: ../archive-campaigns.php:14
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../archive-campaigns.php:26 ../content.php:13 ../content.php:23
+#: ../inc/template-tags.php:30
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../archive.php:16
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:18
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:18
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:20
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:20
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:23
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:26
+msgid "Blog Archives"
+msgstr ""
+
+#: ../comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-campaign-widget.php:40
+#: ../inc/widgets/campaign-contribute-hero.php:53
+#, php-format
+msgid "%s Funded"
+msgstr ""
+
+#: ../content-campaign-widget.php:43
+#: ../inc/widgets/campaign-contribute-hero.php:57
+#, php-format
+msgid "%s Days Left"
+msgstr ""
+
+#: ../content-campaign-widget.php:47
+msgid "Contribute"
+msgstr ""
+
+#: ../content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content.php:37
+#, php-format
+msgid "Read more of %s"
+msgstr ""
+
+#: ../content.php:37
+msgid "Read More"
+msgstr ""
+
+#: ../content.php:43
+msgid "Tags:"
+msgstr ""
+
+#: ../content.php:44
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:49
+#, php-format
+msgctxt "1: Campaign title via 2: Campaign URL"
+msgid "%1$s via %2$s"
+msgstr ""
+
+#: ../content.php:49
+msgid "Tweet"
+msgstr ""
+
+#: ../footer.php:44
+#, php-format
+msgid "&copy; %1$s %2$s. All Rights Reserved"
+msgstr ""
+
+#: ../functions.php:70
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../functions.php:71
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:119
+#, php-format
+msgid ""
+"<strong>Notice:</strong> To take advantage of all of the great features "
+"Campaignify offers, please install the <a href=\"%s\">Astoundify "
+"Crowdfunding Plugin</a>. <a href=\"%s\" class=\"alignright\">Hide this "
+"message.</a>"
+msgstr ""
+
+#: ../functions.php:163
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:169
+msgctxt "Crete Round font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:175
+msgctxt "Norican font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:402
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:433
+msgid "Campaign Page Widget Area"
+msgstr ""
+
+#: ../functions.php:435
+msgid "Choose what should display on campaign pages."
+msgstr ""
+
+#: ../functions.php:443
+msgid "Blog Widget Area"
+msgstr ""
+
+#: ../functions.php:445
+msgid "Appears to the right of the main content area in the blog."
+msgstr ""
+
+#: ../functions.php:453
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../functions.php:455
+msgid "Display columns of widgets in the footer."
+msgstr ""
+
+#: ../functions.php:464 ../inc/widgets/campaign-widgets.php:78
+#, php-format
+msgid "Campaign Widget Area #%d"
+msgstr ""
+
+#: ../functions.php:466
+msgid ""
+"Add widgets to appear in the campaign listing. Use with \"Campaign Widget "
+"Area\" widget."
+msgstr ""
+
+#: ../index.php:19 ../single.php:12
+msgctxt "blog page title"
+msgid "Blog"
+msgstr ""
+
+#: ../modal-share.php:13
+#, php-format
+msgid "Share this %s"
+msgstr ""
+
+#: ../modal-share.php:23
+msgid "Embed Code"
+msgstr ""
+
+#: ../search.php:12
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search this website"
+msgstr ""
+
+#: ../searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: ../single.php:30
+#, php-format
+msgid "Written by %s"
+msgstr ""
+
+#: ../single.php:47
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../inc/crowdfunding.php:162
+#, php-format
+msgid "This %s has ended. No more pledges can be made."
+msgstr ""
+
+#: ../inc/crowdfunding.php:173
+msgid "Select your pledge amount"
+msgstr ""
+
+#: ../inc/template-tags.php:61
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/template-tags.php:68
+msgid "0 Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:68
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:68
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:72 ../inc/template-tags.php:101
+#: ../inc/template-tags.php:122
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:101
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:115
+msgctxt "comment author \"on\" date"
+msgid "on"
+msgstr ""
+
+#: ../inc/template-tags.php:120
+#, php-format
+msgctxt "on 1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:124
+msgid "Reply"
+msgstr ""
+
+#: ../inc/template-tags.php:129
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/theme-customizer.php:47
+msgctxt "Theme customizer section title"
+msgid "General"
+msgstr ""
+
+#: ../inc/theme-customizer.php:52
+msgctxt "Theme customizer section title"
+msgid "Social Links"
+msgstr ""
+
+#: ../inc/theme-customizer.php:75
+msgid "Enable Responsive Design"
+msgstr ""
+
+#: ../inc/theme-customizer.php:82
+msgid "RSS Feed URL"
+msgstr ""
+
+#: ../inc/theme-customizer.php:87
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/theme-customizer.php:92
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/theme-customizer.php:97
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../inc/theme-customizer.php:102
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../inc/theme-customizer.php:107
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../inc/theme-customizer.php:112
+msgid "Instagram URL"
+msgstr ""
+
+#: ../inc/theme-customizer.php:117
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../inc/theme-customizer.php:158
+msgid "Primary Color"
+msgstr ""
+
+#: ../inc/theme-customizer.php:165
+msgid "Accent Color"
+msgstr ""
+
+#: ../inc/theme-customizer.php:194
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/theme-customizer.php:201
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/theme-customizer.php:342
+msgid "Select Campaign"
+msgstr ""
+
+#: ../inc/admin/metabox.php:47
+msgid "Manage Campaign Slider"
+msgstr ""
+
+#: ../inc/widgets/campaign-backers.php:22
+msgid ""
+"Display a slider of all the people who have contributed to the campaign."
+msgstr ""
+
+#: ../inc/widgets/campaign-backers.php:25
+#: ../inc/widgets/campaign-backers.php:43
+#: ../inc/widgets/campaign-backers.php:125
+msgid "Campaign Backers"
+msgstr ""
+
+#: ../inc/widgets/campaign-backers.php:62
+msgid "No backers yet. Be the first!"
+msgstr ""
+
+#: ../inc/widgets/campaign-backers.php:63
+#: ../inc/widgets/campaign-contribute-hero.php:156
+#: ../inc/widgets/campaign-cta.php:82
+msgid "Donate Now"
+msgstr ""
+
+#: ../inc/widgets/campaign-backers.php:92
+msgctxt "Backer chose to hide their name"
+msgid "Anonymous"
+msgstr ""
+
+#: ../inc/widgets/campaign-backers.php:96
+#, php-format
+msgid "Donated %s"
+msgstr ""
+
+#: ../inc/widgets/campaign-backers.php:129
+#: ../inc/widgets/campaign-blog-posts.php:94
+#: ../inc/widgets/campaign-comments.php:79
+#: ../inc/widgets/campaign-feature.php:109
+#: ../inc/widgets/campaign-gallery.php:115
+#: ../inc/widgets/campaign-pledge-amounts.php:122
+#: ../inc/widgets/campaign-video.php:92
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/campaign-backers.php:135
+#: ../inc/widgets/campaign-gallery.php:121
+#: ../inc/widgets/campaign-video.php:98
+msgid "Description:"
+msgstr ""
+
+#: ../inc/widgets/campaign-blog-posts.php:20
+msgid "Display a grid of blog posts."
+msgstr ""
+
+#: ../inc/widgets/campaign-blog-posts.php:23
+msgid "Campaign Blog Posts"
+msgstr ""
+
+#: ../inc/widgets/campaign-blog-posts.php:44
+#: ../inc/widgets/campaign-blog-posts.php:90
+msgid "Campaign Updates"
+msgstr ""
+
+#: ../inc/widgets/campaign-blog-posts.php:100
+#: ../inc/widgets/campaign-gallery.php:127
+msgid "Number to Display:"
+msgstr ""
+
+#: ../inc/widgets/campaign-comments.php:20
+#: ../inc/widgets/campaign-pledge-amounts.php:20
+msgid "Display a list of comments and comment form."
+msgstr ""
+
+#: ../inc/widgets/campaign-comments.php:23
+msgid "Campaign Comments"
+msgstr ""
+
+#: ../inc/widgets/campaign-comments.php:41
+#: ../inc/widgets/campaign-comments.php:76
+msgid "Ask a Question"
+msgstr ""
+
+#: ../inc/widgets/campaign-content.php:20
+msgid "Display the post content for the current campaign."
+msgstr ""
+
+#: ../inc/widgets/campaign-content.php:23
+msgid "Campaign Content"
+msgstr ""
+
+#: ../inc/widgets/campaign-content.php:67
+msgid "This widget has no options"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:23
+msgid "Display an image slider behind contribution information."
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:26
+msgid "Campaign Hero Slider"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:54
+#, php-format
+msgid "%s <em>Raised</em>"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:76
+#, php-format
+msgid "Only %s days to left to support %s %s"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:78
+#, php-format
+msgid "Please support %s via %s"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:158
+msgid "Spread the Word:"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:161
+msgid "Gallery:"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:166
+msgid "Display image gallery slider?"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:171
+msgid "Donations:"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:176
+msgid "Display donation progress bar?"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:182
+#: ../inc/widgets/campaign-cta.php:92
+msgid "Display donation button?"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:187
+#: ../inc/widgets/campaign-cta.php:97
+msgid "Button Text:"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:193
+msgid "Social:"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:198
+msgid "Display share buttons?"
+msgstr ""
+
+#: ../inc/widgets/campaign-contribute-hero.php:203
+msgid "Share Text:"
+msgstr ""
+
+#: ../inc/widgets/campaign-cta.php:18
+msgid "Add a \"Call to Action\" section with text and a button."
+msgstr ""
+
+#: ../inc/widgets/campaign-cta.php:21
+msgid "Campaign Call to Action"
+msgstr ""
+
+#: ../inc/widgets/campaign-cta.php:87
+msgid "Button:"
+msgstr ""
+
+#: ../inc/widgets/campaign-cta.php:103
+msgid "Button URL:"
+msgstr ""
+
+#: ../inc/widgets/campaign-cta.php:110
+msgid "Toggle Contribute Box?"
+msgstr ""
+
+#: ../inc/widgets/campaign-cta.php:115 ../inc/widgets/campaign-cta.php:119
+msgid "Text:"
+msgstr ""
+
+#: ../inc/widgets/campaign-feature.php:20
+msgid "Display an image, title, and paragraph of text."
+msgstr ""
+
+#: ../inc/widgets/campaign-feature.php:28
+msgid "Campaign Feature"
+msgstr ""
+
+#: ../inc/widgets/campaign-feature.php:115
+msgid "Image or Other:"
+msgstr ""
+
+#: ../inc/widgets/campaign-feature.php:118
+msgid "HTML code or image URL"
+msgstr ""
+
+#: ../inc/widgets/campaign-feature.php:122
+msgid "Image or Other Alignment:"
+msgstr ""
+
+#: ../inc/widgets/campaign-feature.php:125
+msgctxt "Campaign Feature Widget image alignment"
+msgid "Left"
+msgstr ""
+
+#: ../inc/widgets/campaign-feature.php:126
+msgctxt "Campaign Feature Widget image alignment"
+msgid "Right"
+msgstr ""
+
+#: ../inc/widgets/campaign-feature.php:131
+msgid "Content:"
+msgstr ""
+
+#: ../inc/widgets/campaign-gallery.php:22
+msgid "Display all images attached to the current campaign."
+msgstr ""
+
+#: ../inc/widgets/campaign-gallery.php:25
+msgid "Campaign Gallery"
+msgstr ""
+
+#: ../inc/widgets/campaign-gallery.php:46
+#: ../inc/widgets/campaign-gallery.php:110
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/widgets/campaign-gallery.php:84
+msgid "View More"
+msgstr ""
+
+#: ../inc/widgets/campaign-pledge-amounts.php:23
+msgid "Campaign Pledge Levels"
+msgstr ""
+
+#: ../inc/widgets/campaign-pledge-amounts.php:41
+msgid "Pledge Amounts"
+msgstr ""
+
+#: ../inc/widgets/campaign-pledge-amounts.php:78
+#, php-format
+msgid "Pledge %s"
+msgstr ""
+
+#: ../inc/widgets/campaign-pledge-amounts.php:87
+#, php-format
+msgid "Limit of %d &mdash; %d remaining"
+msgstr ""
+
+#: ../inc/widgets/campaign-pledge-amounts.php:89
+msgid "All gone!"
+msgstr ""
+
+#: ../inc/widgets/campaign-pledge-amounts.php:119
+msgid "Pledge Levels"
+msgstr ""
+
+#: ../inc/widgets/campaign-video.php:22
+msgid "Display the video attached to the campaign."
+msgstr ""
+
+#: ../inc/widgets/campaign-video.php:25
+msgid "Campaign Video"
+msgstr ""
+
+#: ../inc/widgets/campaign-video.php:43 ../inc/widgets/campaign-video.php:88
+msgid "Video"
+msgstr ""
+
+#: ../inc/widgets/campaign-video.php:104
+msgid "Set the URL of the video on the campaign page."
+msgstr ""
+
+#: ../inc/widgets/campaign-widgets.php:20
+msgid "Display another widgetized area."
+msgstr ""
+
+#: ../inc/widgets/campaign-widgets.php:23
+msgid "Campaign Widget Area"
+msgstr ""
+
+#: ../inc/widgets/campaign-widgets.php:74
+msgid "Widget Area:"
+msgstr ""

@@ -1,0 +1,40 @@
+== Changelog ==
+
+= 1.5: September 14, 2013 =
+
+* Fix: Various fixes and tweaks to stay up to date.
+
+= 1.4: August 10, 2013 =
+
+* New: Major: Custom pledging functionality has been removed from the theme, and added to the Crowdfunding by Astoundify plugin. Please make sure you are using the latest version of the theme and plugin (and update the theme first!)
+* New: Use Magnific Popup instead of Fancybox. Better license, and better library.
+* Fix: When using Jetpack, make sure the text to subscribe to comments properly shows.
+* Fix: Add better support when using endless campaigns. Remove days remaining from various places.
+* Fix: Better checkout styling with EDD 1.7 -- Please reanable styles via Campaigns > Settings > Styles.
+* Fix: A few various responsive tweaks.
+
+= 1.3: July 29, 2013 =
+
+* Fix: Custom pledge amounts are even more compatible with different currency separators.
+* Fix: Responsive fixes for iPad.
+* Fix: Don't clear the cart to avoid empty cart errors. Allows for multiple items in checkout.
+
+= 1.2.1: June 7, 2013 =
+
+* Fix: Custom pledge amounts now more compatible with different currency separators.  
+
+= 1.2: June 3, 2013 =
+
+* New: Embeddable campaign widget.
+* Fix: Responsive fixes.
+
+= 1.1: May 31, 2013 =
+
+* New: "Continue" button on contribute box is now at the top, and the text can be controlled by EDD.
+* Fix: When responsive is turned off, fix layout when viewing on mobile device.
+* Fix: Use correct text domain, and fix spelling errors. 
+* Fix: Don't show hamburger menu icon when no custom menu is assigned.
+
+= 1.0: May 7, 2013 =
+
+First release!
